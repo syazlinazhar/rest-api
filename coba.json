@@ -1,0 +1,56 @@
+[
+        { 
+        "name": "Amiera Syazlin",
+        "age": 22, 
+        "matric": "193043920",
+        "lulus": true,
+        "hobby": [
+                "swimming",
+                "coding",
+                "gaming"
+        ],
+        
+        "lecturers" : {
+            "lecturer1" : "Sandhika Galih",
+            "lecturer2" : "Doddy Ferdiansyah",
+            "lecturer3" : "Anggoro Ari Norcahyo",
+            "lecturer4" : "Agus Hexagraha"
+        }
+    },
+        { 
+            "name": "Nur Syaqinah Binti Safaruddin",
+            "age": 22, 
+            "matric": "193043405",
+            "lulus": true,
+            "hobby": [
+                    "swimming",
+                    "coding",
+                    "gaming"
+            ],
+            
+            "lecturers" : {
+                "lecturer1" : "Sandhika Galih",
+                "lecturer2" : "Doddy Ferdiansyah",
+                "lecturer3" : "Anggoro Ari Norcahyo",
+                "lecturer4" : "Agus Hexagraha"
+        }
+    },
+        { 
+            "name": "Maizatul Fatihah Binti Mohd Salleh",
+            "age": 21, 
+            "matric": "193042605",
+            "lulus": true,
+            "hobby": [
+                    "swimming",
+                    "coding",
+                    "gaming"
+            ],
+            
+            "lecturers" : {
+                "lecturer1" : "Sandhika Galih",
+                "lecturer2" : "Doddy Ferdiansyah",
+                "lecturer3" : "Anggoro Ari Norcahyo",
+                "lecturer4" : "Agus Hexagraha"
+        }
+    }
+]
